@@ -27,8 +27,3 @@ Além de programar, sou entusiasta de simulação militar (**War Thunder** e **A
 
 ## 📫 Como me encontrar
 - **Conecte-se comigo:** [pedro.pbs2022br@gmail.com]
-
----
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=dracula" alt="GitHub Streak" />
-</p>
